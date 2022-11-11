@@ -1,0 +1,33 @@
+form{
+    width: 30%;
+    margin:auto;
+    text-align:left;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+form > h1{
+    margin-bottom: 40px;
+}
+
+
+form > input {
+    width: 100%;
+    height: 3vh;
+    margin-top:1vh;
+    margin-bottom: 1vh;
+    border-bottom: 1px solid black;
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+
+.submit{
+    width: 50%;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
